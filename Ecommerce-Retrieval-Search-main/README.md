@@ -75,10 +75,3 @@ This project aims to enhance the search experience for an e-commerce platform, b
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
-
-## Contact
-Your Name - [Vamsi K](mailto:sunny77katta2002@gmail.com)
-
-LinkedIn: [Vamsi K](https://linkedin.com/in/vamsi-k77)
-
-Twitter: [@VamsiK76294](https://x.com/VamsiK76294)
